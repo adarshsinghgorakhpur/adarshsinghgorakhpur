@@ -1,7 +1,12 @@
 ## Hi there 👋 I'm Adarsh Singh!
+🚀 Building scalable systems & AI-powered applications
+💻 Full Stack Developer | ⚡ Entrepreneur | 🧠 Microservices Architect
 
 ## 🧠 About Me
-💻 Developer | ⚡ Entrepreneur |
+🔥 Working on Flipkart/Amazon-scale E-commerce Microservices
+🤖 Building AI Chatbots & Automation Agents (OpenClaw)
+📊 Exploring AI + Stock Analysis
+⚡ Interested in System Design, Scalability & DevOps
 
 ## 🧠 Languages Used in Repositories
 
@@ -31,5 +36,8 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adarshsinghgorakhpur&theme=github-dark&hide_border=true" />
 </p>
+
+## ⚡ Fun Fact
+I build systems like startups do 🚀
 
 ⭐️ *Thanks for visiting my profile!*
