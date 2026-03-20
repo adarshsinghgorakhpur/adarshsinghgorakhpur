@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Adarsh Singh!
 🚀 Building scalable systems & AI-powered applications
-💻 Full Stack Developer | ⚡ Entrepreneur | 🧠 Microservices Architect
+🚀 Microservices Architect | 🤖 AI Builder | ⚡ Open Source Contributor
 
 ## 🧠 About Me
 🔥 Working on Flipkart/Amazon-scale E-commerce Microservices
