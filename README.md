@@ -1,7 +1,7 @@
-## Hi there 👋 I'm adarshsinghgorakhpur!
+## Hi there 👋 I'm Adarsh Singh!
 
 ## 🧠 About Me
-💻 Developer | 🚩 Sanatani Hindu |
+💻 Developer | ⚡ Entrepreneur |
 
 ## 🧠 Languages Used in Repositories
 
