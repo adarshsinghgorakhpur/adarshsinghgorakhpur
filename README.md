@@ -56,13 +56,6 @@
 
 ---
 
-## 🐍 Contribution Snake (Auto Animated)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/adarshsinghgorakhpur/adarshsinghgorakhpur/output/snake.svg" />
-</p>
-
----
 ## 📈 Activity Graph
 
 <p align="center">
