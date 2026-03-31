@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Adarsh Singh</h1>
-<h3 align="center">🚀 Building Scalable Systems & AI-Powered Applications</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=800&color=0FF7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Adarsh+Singh;🚀+Microservices+Architect;🤖+AI+Builder;⚡+System+Design+Enthusiast;💻+Open+Source+Contributor" />
+</p>
 
 <p align="center">
   💻 Microservices Architect • 🤖 AI Builder • ⚡ Open Source Contributor
@@ -50,7 +51,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adarshsinghgorakhpur&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarshsinghgorakhpur&theme=tokyonight&hide_border=true"/>
 </p>
 
