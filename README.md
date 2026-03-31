@@ -55,11 +55,14 @@
 </p>
 
 ---
-
-## 🐍 Contribution Snake (Auto Animated)
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/adarshsinghgorakhpur/adarshsinghgorakhpur/output/snake.svg" />
+  <!-- Dark Mode -->
+  <img src="https://raw.githubusercontent.com/adarshsinghgorakhpur/adarshsinghgorakhpur/output/snake-dark.svg#gh-dark-mode-only" />
+
+  <!-- Light Mode -->
+  <img src="https://raw.githubusercontent.com/adarshsinghgorakhpur/adarshsinghgorakhpur/output/snake.svg#gh-light-mode-only" />
 </p>
 
 ---
