@@ -3,27 +3,27 @@
 </p>
 
 <p align="center">
-  💻 Microservices Architect • 🤖 AI Builder • ⚡ Open Source Contributor
+  <b>💻 Microservices Architect • 🤖 AI Builder • ⚡ Open Source Contributor</b>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 🔥 Building **Flipkart/Amazon-scale Microservices Architecture**
-- 🤖 Creating **AI Chatbots & Automation Agents (OpenClaw)**
-- 📊 Exploring **AI + Stock Market Analysis**
-- ⚡ Passionate about **System Design, Scalability & DevOps**
-- 🧩 Always learning & building **real-world production systems**
+- 🔥 **Building E-commerce-scale Microservices Architecture**
+- 🤖 **Creating AI Chatbots & Automation Agents (OpenClaw)**
+- 📊 **Exploring AI + Stock Market Analysis**
+- ⚡ **Passionate about System Design, Scalability & DevOps**
+- 🧩 **Always learning & building real-world production systems**
 
 ---
 
 ## 🚀 What I’m Currently Working On
 
-- 🛒 Large-scale **E-commerce Platform (Microservices + Kafka + Kubernetes)**
-- 🤖 **AI Automation Agents (24×7 systems)**
-- 📈 Intelligent **Stock Prediction Models**
-- 🌍 Real-world **Infrastructure & Deployment Pipelines**
+- **🛒 Large-scale E-commerce Platform (Microservices + Kafka + Kubernetes)**
+- **🤖 AI Automation Agents (24×7 systems)**
+- **📈 Intelligent Stock Prediction Models**
+- **🌍 Real-world Infrastructure & Deployment Pipelines**
 
 ---
 
@@ -85,18 +85,18 @@
 
 ## 🧠 Core Skills
 
-- 🏗️ Microservices Architecture  
-- 🔁 Event-Driven Systems (Kafka)  
-- ⚡ High Scalability & Performance Optimization  
-- 🤖 AI Systems & Automation  
-- 🔐 Security & API Gateway Design  
-- 📊 Observability (Prometheus, Grafana, Loki, Jaeger)
+- **🏗️ Microservices Architecture**  
+- **🔁 Event-Driven Systems (Kafka)**  
+- **⚡ High Scalability & Performance Optimization**  
+- **🤖 AI Systems & Automation**  
+- **🔐 Security & API Gateway Design**  
+- **📊 Observability (Prometheus, Grafana, Loki, Jaeger)**
 
 ---
 
 ## ⚡ Fun Fact
 
-🚀 *I build systems like startups do — fast, scalable, and production-ready.*
+🚀 **I build systems like startups do — fast, scalable, and production-ready.**
 
 ---
 
@@ -117,7 +117,7 @@
 </p>
 
 ---
-
 <p align="center">
-  ⭐️ Thanks for visiting my profile! Keep Building 🚀
+  ⭐️ <b>Thanks for visiting my profile! Keep Building 🚀</b>
 </p>
+
