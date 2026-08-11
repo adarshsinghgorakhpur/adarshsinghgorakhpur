@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <b>💻 Microservices Architect • 🤖 AI Builder • ⚡ Open Source Contributor</b>
+  <b>💻 Microservices Architect • 🤖 Web Developer • ⚡ Open Source Contributor</b>
 </p>
 
 ---
